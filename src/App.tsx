@@ -1,3 +1,3 @@
 export const App: React.FC = () => {
-  return <div>bun vite app</div>;
+  return <div data-testid="bun">bun vite app</div>;
 };
