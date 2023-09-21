@@ -21,6 +21,6 @@
     "noFallthroughCasesInSwitch": true,
     "types": ["bun-types"]
   },
-  "include": ["src"],
+  "include": ["src", "happydom.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
